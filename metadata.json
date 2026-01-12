@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Efashion AI Stylist",
+  "description": "An intelligent AI-powered chatbot for Efashion, providing personalized style advice, product recommendations, and real-time fashion insights using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
